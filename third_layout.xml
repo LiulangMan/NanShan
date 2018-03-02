@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/timg"
+    >
+<Button
+    android:id="@+id/button_third_1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#00000000"
+    android:layout_centerHorizontal="true"
+    android:text="点此进入南山"
+    android:textSize="30dp"
+    android:layout_marginTop="30dp"
+    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" 蝴蝶（后段）"
+        android:textSize="20dp"
+        android:layout_marginTop="100dp"
+        android:textColor="#F213"
+        android:layout_marginLeft="130dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="素衣花簪采蜜朵，蝶飞翩翩止细肩。"
+        android:textSize="20dp"
+        android:layout_marginTop="150dp"
+        android:textColor="#F213"
+        android:layout_marginLeft="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="香汁渲美风经处，吟诗作景纷飞意。"
+        android:textSize="20dp"
+        android:layout_marginTop="180dp"
+        android:textColor="#F213"
+        android:layout_marginLeft="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="离肩微摇花篮中，倚停一书一香篇。"
+        android:textSize="20dp"
+        android:layout_marginTop="210dp"
+        android:textColor="#F213"
+        android:layout_marginLeft="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="原是前世赠伊词，雕泪印染南山情。"
+        android:textSize="20dp"
+        android:layout_marginTop="240dp"
+        android:textColor="#F213"
+        android:layout_marginLeft="40dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" 南山有情寄诗中(●'◡'●)@lqr"
+        android:textSize="20dp"
+        android:layout_marginTop="370dp"
+        android:textColor="#F213"
+        android:layout_marginLeft="40dp"
+        />
+</RelativeLayout>
